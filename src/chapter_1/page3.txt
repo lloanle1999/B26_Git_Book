@@ -1,5 +1,3 @@
 Welcome to git
-
 I hope you were having fun
-
-Missing java maybe
+Missing java maybe :(
