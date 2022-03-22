@@ -1,0 +1,5 @@
+this is chapter 2
+
+day 2 of git
+
+we are doing good
